@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "CarRepairMdf": "Server=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\peter\\OneDrive\\Desktop\\sheridan-last-seme\\C#\\Assignment2\\AppData\\CarRepairSys.mdf;Trusted_Connection=Yes;"
+  }
+}
